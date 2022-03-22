@@ -1,3 +1,3 @@
 # C++ Labs
 
--Codes made during C++ lessons
+-Codes made during C++ labs
